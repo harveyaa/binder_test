@@ -2,5 +2,6 @@ channels:
   - conda-forge
 
 dependencies:
+  - nilearn
   - pip:
     - pynm
